@@ -1,6 +1,6 @@
 <?php
-define("DB_HOST", 'localhost');
-define("DB_USER", 'root');
-define("DB_PASS", '');
-define("DB_NAME", 'instrumentstore');
+define("DB_HOST", 'hau.mysql.database.azure.com');
+define("DB_USER", 'hauhihi');
+define("DB_PASS", 'Saobang1@');
+define("DB_NAME", 'test');
 ?>
